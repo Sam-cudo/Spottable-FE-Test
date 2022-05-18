@@ -21,7 +21,7 @@ export default function MainCard (props) {
               searchResult.map((item,i) => {
                 return (
                   <div key={item.id} onClick={(e) => handleSelect(e,item)} tabIndex="0" className={pointer===i?'pointed':null}>
-                    <div className='csm-list' style={{ cursor: "pointer" }}>
+                    <div className='csm-list' style={{ cursor: "pointer" , border: "none"}}>
                       <div className="csm-details">
                         <div className='csm-avatar'>
                           <p className="avatar-text">{getInitials(item.name)}</p>
@@ -38,6 +38,7 @@ export default function MainCard (props) {
                         </div>
                       </div>
                     </div>
+                    <hr />
                   </div>
                 );
               })
