@@ -1,0 +1,61 @@
+   [{
+      "id": "1",
+      "name": "Priyanka Singh",
+      "post": "Senior Recruiter",
+      "email": "priyanka@spottable.com"
+    },
+    {
+      "id": "2",
+      "name": "Ajith KP",
+      "post": "Associate Principal-Leadership Hiring",
+      "email": "ajith@spottable.com"
+    },
+    {
+      "id": "3",
+      "name": "Arbaz Khatri",
+      "post": "Talent Acquisition Specialist",
+      "email": "arbaz@spottable.com"
+    },
+    {
+      "id": "4",
+      "name": "Chirag Sharma",
+      "post": "Web Intern",
+      "email": "chirag@spottable.com"
+    },
+    {
+      "id": "5",
+      "name": "Dipanshu Diwaker",
+      "post": "Senior Developer",
+      "email": "dipanshu@spottable.com"
+    },
+    {
+      "id": "6",
+      "name": "Nitesh Jain",
+      "post": "Senior React Developer",
+      "email": "nitesh@spottable.com"
+    },
+    {
+      "id": "7",
+      "name": "Rahul Kumar",
+      "post": "Chief Techninal Officer",
+      "email": "rahul@spottable.com"
+    },
+    {
+      "id": "8",
+      "name": "Vanishri",
+      "post": "Client Manager",
+      "email": "vani@spottable.com"
+    },
+    {
+      "id": "9",
+      "name": "Vishal N",
+      "post": "Senior Manager - Recruitment Success",
+      "email": "vishal@spottable.com"
+    },
+    {
+      "id": "10",
+      "name": "Vidya Nagesh",
+      "post": "Recruitment Success",
+      "email": "vidya@spottable.com"
+    }
+]
