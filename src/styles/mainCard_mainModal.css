@@ -4,7 +4,7 @@
 
 .csm-list {
     width: 100%;
-    padding: 1.5vmax;
+    padding: 1.1vmax;
     display: flex;
     justify-content: space-between;
     flex-direction: row;
@@ -85,13 +85,13 @@
 }
 
 .modal {
-    top: 24vmax;
-    left: 4vmax;
+    top: 23.5vmax;
+    left: 3.94vmax;
 }
 @media screen and (max-width: 850px) {
     .modal {
         top: auto;
-        left: 4%;
+        left: 3.94%;
     }
   }
 

@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 const Card = styled.div`
-max-height: 41vh;
+max-height: 42vh;
 display: flex;
 flex-direction: column;
 border-radius: 10px;
@@ -23,7 +23,7 @@ const Modal = styled(Card)`
   height: fi-content;
   max-height: 50vh;
   background-color: #fff;
-  box-shadow: 0px 0px 2px 2px rgba(0, 0, 0, 0.05);
+  box-shadow: 1px 1px 10px 5px rgba(0, 0, 0, 0.05);
   @media screen and (max-width: 690px) {
   max-height: 78vh;
   }
