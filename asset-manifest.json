@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Spottable-FE-Test/static/css/main.e3ab35aa.css",
+    "main.js": "/Spottable-FE-Test/static/js/main.e7aba598.js",
+    "static/js/787.349345a2.chunk.js": "/Spottable-FE-Test/static/js/787.349345a2.chunk.js",
+    "index.html": "/Spottable-FE-Test/index.html",
+    "main.e3ab35aa.css.map": "/Spottable-FE-Test/static/css/main.e3ab35aa.css.map",
+    "main.e7aba598.js.map": "/Spottable-FE-Test/static/js/main.e7aba598.js.map",
+    "787.349345a2.chunk.js.map": "/Spottable-FE-Test/static/js/787.349345a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3ab35aa.css",
+    "static/js/main.e7aba598.js"
+  ]
+}
